@@ -1,0 +1,13 @@
+create a script that goes to the conent type hub of a specified tenant, finds the Issue ct and creates new ct named ELDK26Issues based on Issue. Once the ct is available I want a new site column added to the new ct. 
+The site column is named Geo Relations and is a taxonomy field connected to the existing term set by the same name. The term group of Geolocation is named  Geo Relations. The site column is single selection and be a optional field.
+the content type url is https://m365thinking.sharepoint.com/sites/Contenttypehub
+
+If there is any questions then ask
+
+I prefer the indentation style to be like this:
+try
+{
+}
+catch
+{
+}
